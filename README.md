@@ -17,4 +17,7 @@ We have 5 scripts :
      <br/>   **Model_RF.ipynb**
      <br/>   **Models_KNN.ipynb**
      <br/>   **Models_SVM.ipynb** which is composed of the methods seen in progress with E.Gallic with LDA, Random Forest, KNN and SVM 
+     
+     
+  <br/> the original database was sent by we transfer, this is the file : opioid_use_data.csv
 
