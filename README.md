@@ -13,8 +13,8 @@ We have 5 scripts :
 - The 3) 
      <br/>   **modele.ipynb** which is composed of the methods seen in progress with P. Michel with Kmeans, Kmeans with PCA, Gradient Descent Algorithm, Artificial Neural Network 
 - The 4) 
-     <br/>    **Model_LDA.ipynb
-     <br/>   **Model_RF.ipynb
-     <br/>   **Models_KNN.ipynb
+     <br/>    **Model_LDA.ipynb**
+     <br/>   **Model_RF.ipynb**
+     <br/>   **Models_KNN.ipynb**
      <br/>   **Models_SVM.ipynb** which is composed of the methods seen in progress with E.Gallic with LDA, Random Forest, KNN and SVM 
 
