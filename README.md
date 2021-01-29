@@ -1,5 +1,8 @@
 # Advanced methods in Big Data 
 
+The main project will be in the PDF file
+
+
 This is instructions to replicate our results of our projet on Opioids Used in USA 
 
 We have 5 scripts : 
